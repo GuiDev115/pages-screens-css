@@ -1,0 +1,15 @@
+body {
+    background-image: url("kek.png");
+    background-repeat: repeat-x;
+}
+
+h1 { 
+    text-align: center;
+    color: white;
+    font-family: verdana;
+}
+
+div.login{
+    background-color: red;
+    text-align: center;
+}
